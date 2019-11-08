@@ -1,5 +1,5 @@
 # Google-Online-Challenge-solutions
-I was invited to participate in Google's Online Challenge (GOC) - Coding (SEA / ML Winter Camp).  
+I participated in the invitation-only **Google's Online Challenge (GOC) - Coding (SEA / ML Winter Camp)**.  
 * Date & Time: 09:00 SGT, 8th November (Singapore Time, GMT+8) to 21:00 SGT, 9th November 2019.  
 * Duration: 45 minutes for 2 quesitons
 * Language Used: Python
